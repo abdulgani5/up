@@ -6,7 +6,7 @@
         'src' => 'https://eventkampus.com/data/sekolah/168-1.jpeg',
         'alt' => 'STMIK Jabar',
         'width' => '200',
-        'height' => '100',
+        'height' => '100'
 
     );
 echo img($image_properties);
